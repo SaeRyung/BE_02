@@ -1,6 +1,6 @@
 package BE_cordingtest.w2;
 
-public class operator {
+public class Operator {
     public static void main(String[] args) {
         int fifty_thousand = 50_000;
         int ten_thousand = 10_000;
